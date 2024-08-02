@@ -7,5 +7,5 @@ def multiply(a, b):
   return a*b
 def divide(a, b):
   return a/b
-def exponent(a, b):
-  return a**b
+def exponent_premium(a, b):
+  return a **
