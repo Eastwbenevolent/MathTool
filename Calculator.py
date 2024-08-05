@@ -9,3 +9,5 @@ def divide(a, b):
   return a/b
 def exponent_free(a, b):
   return a**b
+def reminder(a ,b):
+  return a % b
